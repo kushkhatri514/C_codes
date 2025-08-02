@@ -13,3 +13,17 @@ This C program prints a **symmetric diamond-shaped pattern** made of asterisks (
 - Spaces are added before each row to center-align the stars.
 
 ---
+
+## Sample Output
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+---
