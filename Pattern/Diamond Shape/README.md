@@ -15,7 +15,7 @@ This C program prints a **symmetric diamond-shaped pattern** made of asterisks (
 ---
 
 ## Sample Output
-
+```
     *
    ***
   *****
@@ -25,5 +25,5 @@ This C program prints a **symmetric diamond-shaped pattern** made of asterisks (
   *****
    ***
     *
-
+```
 ---
