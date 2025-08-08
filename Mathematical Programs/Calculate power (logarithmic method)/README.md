@@ -1,6 +1,7 @@
 # Fast Exponentiation (Power Function) in C
 
 This program calculates `a^b` (a raised to the power b) using a **logarithmic time recursive algorithm**, also known as **Exponentiation by Squaring**.
+This Program calls the function multiple times.
 
 ---
 
