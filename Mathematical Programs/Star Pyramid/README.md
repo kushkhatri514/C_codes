@@ -1,10 +1,10 @@
-# 🔺 Pyramid Star Pattern in C
+# Pyramid Star Pattern in C
 
 This program prints a centered pyramid-shaped star pattern based on the number of lines entered by the user.
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 - The pyramid has `n` rows.
 - Each row contains:
@@ -13,7 +13,7 @@ This program prints a centered pyramid-shaped star pattern based on the number o
 
 ---
 
-## 🖥 Sample Output (n = 5)
+## Sample Output (n = 5)
 
 ```
     *
