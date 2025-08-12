@@ -22,5 +22,6 @@ B W B
 ```
 
 **Output:**
+
 #Color
 ---
