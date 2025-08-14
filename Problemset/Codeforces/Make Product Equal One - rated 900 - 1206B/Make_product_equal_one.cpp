@@ -34,4 +34,3 @@ int main(void) {
     cout << cost << endl;
     return 0;
 }
-
