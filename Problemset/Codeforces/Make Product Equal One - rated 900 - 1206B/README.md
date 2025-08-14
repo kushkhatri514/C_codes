@@ -35,4 +35,3 @@ This program calculates the **minimum cost** to convert all integers in a given 
 - `2` → `1` (cost = 1)  
 Total = `1 + 3 + 1 + 0 + 1 = 6` (No extra conversion needed as negatives are even)
 ```
-
