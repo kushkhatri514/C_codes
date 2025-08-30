@@ -16,6 +16,7 @@ int main(void) {
         }
         else if (x < 0) {
             cost = cost - x - 1; // increase negative numbers to -1
+            
             negetivecount++;
         }
         else {
